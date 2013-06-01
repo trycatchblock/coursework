@@ -34,3 +34,6 @@ name = gets.chomp
 puts 'Your name is ' + name + '? What a lovely name!'
 puts 'Pleased to meat you, ' + name + '. :)'
 
+print 'hello'
+print 'oh lord!'
+	
